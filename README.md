@@ -3,10 +3,10 @@
 In the current repository we wil try to clean and analyse the data extracted in the [Hyderabad_House_Prices](https://github.com/saitejamahadev/Hyderabad_Housing_Prices) repository 
 and try to answer questions such as 
 
-   * What is the common Fursnhing style of the flat avaliable for rent ?
-   * What type of Tennants are generally preferred by Landlords ?
-   * How many number of Bedrooms are generally availabel for rent ?
-   * What is the distribution of Furnishing type vs Tennants repferred ?
+ * What is the common Fursnhing style of the flat available for rent?
+ * What type of Tennants are generally preferred by Landlords?
+ * How many numbers of Bedrooms are generally available for rent?
+ * What is the distribution of Furnishing type vs Tennants preferred?
 
 ## Steps :
 
